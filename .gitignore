@@ -1,0 +1,20 @@
+# Dataset files — share via Google Drive
+dataset/*.csv
+data_collection/*.csv
+
+# Trained models — regenerate by running training script
+models/*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/

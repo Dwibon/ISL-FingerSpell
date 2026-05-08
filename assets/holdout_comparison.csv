@@ -1,0 +1,8 @@
+Algorithm,Held-Out Weighted F1
+Random Forest,0.9673
+Extra Trees,0.9652
+SVM (RBF),0.9619
+Keras MLP,0.9492
+MLP (sklearn),0.9405
+KNN (k=3),0.9026
+KNN (k=5),0.9007

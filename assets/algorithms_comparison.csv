@@ -1,0 +1,8 @@
+Algorithm,Accuracy,Weighted F1,Train Time (s)
+KNN (k=5),1.0,1.0,0.08
+KNN (k=3),1.0,1.0,0.07
+MLP (sklearn),0.9999,0.9999,20.6
+Extra Trees,0.9999,0.9999,4.06
+Keras MLP,0.9998,0.9998,29.07
+Random Forest,0.9997,0.9997,40.15
+SVM (RBF),0.9997,0.9997,13.15

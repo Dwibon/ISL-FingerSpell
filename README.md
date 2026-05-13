@@ -65,16 +65,12 @@ Word Formation + Display
 | Random Forest  |   0.9997 |     0.997   |     40.15      |
 
 
-> Fill in your actual numbers from `assets/algorithms_comparison.png`
-
 ### Held-Out User (cross-user generalisation)
 
 | Algorithm      | Held-Out Weighted F1 |
 |----------------|----------------------|
 | Random Forest  | 0.9673               |
 
-
-> Fill in your actual numbers from `assets/holdout_comparison.png`
 
 ---
 

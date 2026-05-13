@@ -62,13 +62,8 @@ Word Formation + Display
 
 | Algorithm      | Accuracy | Weighted F1 | Train Time (s) |
 |----------------|----------|-------------|----------------|
-| Random Forest  | —        | —           | —              |
-| MLP (sklearn)  | —        | —           | —              |
-| Extra Trees    | —        | —           | —              |
-| SVM (RBF)      | —        | —           | —              |
-| KNN (k=5)      | —        | —           | —              |
-| KNN (k=3)      | —        | —           | —              |
-| Keras MLP      | —        | —           | —              |
+| Random Forest  |   0.9997 |     0.997   |     40.15      |
+
 
 > Fill in your actual numbers from `assets/algorithms_comparison.png`
 
@@ -76,13 +71,8 @@ Word Formation + Display
 
 | Algorithm      | Held-Out Weighted F1 |
 |----------------|----------------------|
-| Random Forest  | —                    |
-| MLP (sklearn)  | —                    |
-| Extra Trees    | —                    |
-| SVM (RBF)      | —                    |
-| KNN (k=5)      | —                    |
-| KNN (k=3)      | —                    |
-| Keras MLP      | —                    |
+| Random Forest  | 0.9673               |
+
 
 > Fill in your actual numbers from `assets/holdout_comparison.png`
 

@@ -242,9 +242,9 @@ This project is being prepared for submission to micro project which is required
 - Tanisha Deka — tanishadeka@astu.ac.in
 - Abhigyan Gogoi — abhigogoi555@astu.ac.in
 
-- Assam Science and Technology University
-- Department of Computer Science and Engineering
-- Micro Project — EP241415
+Assam Science and Technology University  
+Department of Computer Science and Engineering  
+Micro Project — EP241415
 
 ---
 

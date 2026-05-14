@@ -76,7 +76,10 @@ Word Formation + Display
 
 ## Dataset
 
-The dataset is not stored in this repository. Download from Google Drive:
+The dataset is not stored in this repository. Download from Kaggle:  
+> https://www.kaggle.com/datasets/dwibonbhargabdeka/isl-dataset-mediapipe-hand-landmarks  
+
+Alternatively, download from Google Drive:
 
 > https://drive.google.com/drive/folders/1yScfvBHsRtDCP3XD4qlf2VgszYojku3x?usp=sharing
 
